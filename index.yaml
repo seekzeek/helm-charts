@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  cloud-nginx:
+  - apiVersion: v2
+    appVersion: 1.21.6
+    created: "2025-07-24T04:04:45.258122+01:00"
+    description: A Helm chart for NGINX
+    digest: 1f38e21468fa1bd8780a9a0e5ea963836464ef074768a0901d90557c856f363f
+    icon: https://www.nginx.com/favicon.ico
+    name: cloud-nginx
+    type: application
+    urls:
+    - cloud-nginx-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-07-24T04:04:45.257554+01:00"
